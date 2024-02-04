@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\bin\Debug\net8.0\Encapsulation-Property.exe
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\bin\Debug\net8.0\Encapsulation-Property.deps.json
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\bin\Debug\net8.0\Encapsulation-Property.runtimeconfig.json
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\bin\Debug\net8.0\Encapsulation-Property.dll
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\bin\Debug\net8.0\Encapsulation-Property.pdb
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\Encapsulation-Property.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\Encapsulation-Property.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\Encapsulation-Property.AssemblyInfo.cs
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\Encapsulation-Property.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\Encapsulation-Property.dll
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\refint\Encapsulation-Property.dll
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\Encapsulation-Property.pdb
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\Encapsulation-Property.genruntimeconfig.cache
+c:\Users\HP\Desktop\Patika\Encapsulation-Property\obj\Debug\net8.0\ref\Encapsulation-Property.dll
